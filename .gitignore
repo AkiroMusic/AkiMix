@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+
+# Build output
+out/
+release/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# OpenCode session data
+.omo/run-continuation/
+.omo/drafts/
+.omo/plans/
+.omo/ulw-research/
+
+# Code intelligence index
+.codegraph/
+
+# Internal planning docs (not for public release)
+AkiMix Prompt.md
+
+# Release
+release/
+*.exe
+*.dmg
+*.blockmap
+*.yml
+
+# Electron
+*.asar
+
+# Environment
+.env
+.env.local
