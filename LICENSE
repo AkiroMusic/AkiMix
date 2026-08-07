@@ -1,0 +1,67 @@
+# AkiMix License
+
+Custom License — Permissive use with mandatory attribution and author consultation.
+
+自定义协议 — 宽松允许使用，但必须署名，重大决策需与作者协商。
+
+---
+
+Copyright (c) 2026 Akiro (AkiroMusic)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, merge, publish, and distribute the Software without restriction,
+subject to the following conditions:
+
+## 1. Attribution (署名)
+
+Any use, copy, modification, merge, publication, or distribution of the
+Software, in whole or in part, **must retain the above copyright notice and
+this permission notice** in all copies or substantial portions of the
+Software, **and must visibly credit the original author** — "Akiro
+(AkiroMusic)" — together with a link to the original repository, in any
+user-facing interface, documentation, about page, or credits section.
+
+> 任何对本软件（整体或部分）的使用、复制、修改、合并、发布或分发，必须在所有副本或实质性部分中保留上述版权声明和本许可声明，并且必须在任何面向用户的界面、文档、关于页面或致谢部分中**显著标注原作者**——「Akiro (AkiroMusic)」——并附上原始仓库链接。
+
+## 2. Major Decisions Require Author Consultation (重大决策需与作者协商)
+
+Before making any of the following major decisions, you **must first discuss
+the decision with the original author (Akiro) and obtain their explicit
+approval**:
+
+- (a) Renaming the Software or presenting it under a different product name;
+- (b) Releasing a modified, forked, or derivative version as a **commercial
+  product** sold for profit;
+- (c) Re-licensing or sub-licensing the Software under a different license
+  for redistribution;
+- (d) Using the Software or its derivatives as the core of another product
+  brand without attribution.
+
+> 在作出以下任何重大决策之前，你**必须先与原作者（Akiro）讨论并获得其明确同意**：
+> - (a) 重命名本软件或以其它的产品名称发布；
+> - (b) 将修改版、分叉版或衍生版本作为**商业产品**出售牟利；
+> - (c) 以其它协议重新授权或再授权本软件用于再分发；
+> - (d) 在未署名的情况下，将本软件或其衍生品作为其它产品品牌的核心。
+
+Personal use, learning, non-commercial reference, and private modification do
+**not** require prior consultation, provided that the attribution condition in
+Section 1 is still honored.
+
+> 个人使用、学习、非商业参考和私有修改**无需**事先协商，但仍须遵守第 1 条的署名要求。
+
+## 3. No Warranty (免责声明)
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+> 本软件按「现状」提供，不附带任何明示或默示的担保，包括但不限于适销性、特定用途适用性和非侵权性的担保。在任何情况下，作者或版权持有人均不对因使用本软件或与本软件的使用或其它交易有关的任何索赔、损害或其它责任负责，无论基于合同、侵权或其它原因。
+
+---
+
+Contact the author / 联系作者: GitHub [AkiroMusic](https://github.com/AkiroMusic)
