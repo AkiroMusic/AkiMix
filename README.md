@@ -240,6 +240,19 @@ AkiMix 是为音乐制作人、混音工程师和混音爱好者打造的**完�
 
 > **无需任何音频环境。** AkiMix 是参考与计算工具而非 DAW——它给你精确的数值，让你填进自己的插件和 DAW 中。
 
+## 从源码构建
+
+从源码构建（无需 Node.js 之外的任何工具链）：
+
+```bash
+git clone https://github.com/AkiroMusic/AkiMix.git
+cd AkiMix
+npm install
+
+npm run dev        # run in development mode
+npm run build:win  # package for Windows (build:mac / build:linux also available)
+```
+
 ## 功能导览（19 个工具）
 
 ### 1. BPM 计算器 — 节拍中枢
