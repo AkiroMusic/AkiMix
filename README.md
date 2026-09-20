@@ -7,6 +7,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38BDF8?logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)
+[![Release](https://img.shields.io/github/v/release/AkiroMusic/AkiMix)](https://github.com/AkiroMusic/AkiMix/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Tests](https://img.shields.io/badge/unit%20tests-819%20passing-22c55e)](https://github.com/AkiroMusic/AkiMix)
 
 ---
 
@@ -15,6 +18,19 @@
 AkiMix is a complete mixing reference workstation for music producers, sound engineers, and mixing enthusiasts. It pairs a **fully offline, instant-response calculation engine** (819 unit tests) with a clean, themeable desktop UI — so every number on screen is computed live from your inputs, not looked up from static tables.
 
 > **Zero audio required.** AkiMix is a reference & calculation tool, not a DAW — it gives you the exact numbers to dial into your own plugins and DAW.
+
+## Getting Started
+
+Build from source (no toolchain beyond Node.js required):
+
+```bash
+git clone https://github.com/AkiroMusic/AkiMix.git
+cd AkiMix
+npm install
+
+npm run dev        # run in development mode
+npm run build:win  # package for Windows (build:mac / build:linux also available)
+```
 
 ## Feature Tour (19 Tools)
 
@@ -195,7 +211,7 @@ npm run build:linux # Linux
 
 ## License
 
-This project is released under a **custom license** — permissive use with **mandatory attribution** and **author consultation for major decisions**. Full terms (English & Chinese) in [LICENSE](./LICENSE).
+Released under the [MIT License](./LICENSE).
 
 ---
 
@@ -212,6 +228,9 @@ This project is released under a **custom license** — permissive use with **ma
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38BDF8?logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)
+[![Release](https://img.shields.io/github/v/release/AkiroMusic/AkiMix)](https://github.com/AkiroMusic/AkiMix/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Tests](https://img.shields.io/badge/unit%20tests-819%20passing-22c55e)](https://github.com/AkiroMusic/AkiMix)
 
 ---
 
@@ -400,7 +419,7 @@ npm run build:linux # Linux
 
 ## 开源协议
 
-本项目采用**自定义协议**发布 —— 允许宽松使用，但**必须署名来源**，重大决策需与作者协商。完整条款（中英双语）见 [LICENSE](./LICENSE)。
+本项目基于 [MIT 协议](./LICENSE) 开源发布。
 
 ---
 
